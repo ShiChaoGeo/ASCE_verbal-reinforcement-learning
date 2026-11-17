@@ -1,0 +1,10 @@
+# CPT processing
+pandas
+openpyxl
+ruptures
+numpy
+
+# LLM providers (install only what you use)
+openai>=1.0.0
+anthropic
+google-genai
